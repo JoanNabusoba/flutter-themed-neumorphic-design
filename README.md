@@ -1,10 +1,20 @@
-# game
+# Flutter-Book-Movie-UI
+This is a UI concept inspired by Uplabs
 
-A new Flutter project.
 
-## Getting Started
+[![INSERT YOUR GRAPHIC HERE](https://raw.githubusercontent.com/JoanNabusoba/flutter-themed-neumorphic-design/master/dark.png)]()
 
-This project is a starting point for a Flutter application.
+[![INSERT YOUR GRAPHIC HERE](https://raw.githubusercontent.com/JoanNabusoba/flutter-themed-neumorphic-design/master/light.png)]()
+
+Inspiration: https://dribbble.com/shots/11522847-Playstation-5-DualSense-Neumorphic-mobile-app-dark-version
+
+## Support
+
+Reach out to me at one of the following places!
+
+- LinkedIn at <a href="https://www.linkedin.com/in/joan-nabusoba-b862969b/" target="_blank">`My LinkedIn`</a>
+- Twitter at <a href="http://twitter.com/joannabusoba" target="_blank">`@joannabusoba`</a>
+
 
 A few resources to get you started if this is your first Flutter project:
 
